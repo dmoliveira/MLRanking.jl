@@ -30,9 +30,6 @@ Pkg.clone("http://www.github.com/dmoliveira/MLRanking.jl")
 ## Troubleshooting
 In construction.
 
-Package made  by ([dmoliveira](http://github.com/dmoliveira)). Please, give your suggestion on Gitter or open an issue in GitHub!
-
-
 ## TODOs
 - Add Travis-CI to work
 - Add Appveyor to check on Windows
@@ -48,3 +45,5 @@ Package made  by ([dmoliveira](http://github.com/dmoliveira)). Please, give your
 - Ensure is compatible with Julia v{0.3, 0.4 and 0.5}
 - Create GitHub.io Webpage
 - Submit to JuliaStats ORG
+
+Package made  by ([dmoliveira](http://github.com/dmoliveira)). Please, give your suggestion on Gitter or open an issue in GitHub!  
