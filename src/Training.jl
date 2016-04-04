@@ -13,6 +13,17 @@ function train_ranklib(train_file, model_file, algorithm, extra_parameters;
     return run(command)
 end
 
+"""
+    function train_mart(train_file, model_file; trees=1000, leaves=10, learning_rate=.1, 
+                        threshold_candidates=256, min_leaf_support=1, stop_early_validation=100,
+                        train_percentage=.85, norm=NORMALIZE_FEATURE_VECTORS_NO_NORM, metric="MAP")
+
+    
+    Arguments:
+        train_file: File path with data to train the algorithm
+        model_file: File path to save the model generated from the training
+        ...
+"""
 function train_mart(train_file, model_file; trees=1000, leaves=10, learning_rate=.1, 
                     threshold_candidates=256, min_leaf_support=1, stop_early_validation=100,
                     train_percentage=.85, norm=NORMALIZE_FEATURE_VECTORS_NO_NORM, metric="MAP")
