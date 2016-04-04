@@ -1,5 +1,6 @@
 # MLRanking
 
+[![Join the chat at hhttps://gitter.im/dmoliveira/fastviz.jl](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dmoliveira/MLRanking.jl?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/dmoliveira/MLRanking.jl.svg?branch=master)](https://travis-ci.org/dmoliveira/MLRanking.jl)
 
 MLRanking is a package of Machine Learning focused in Learning to Rank (L2R). [L2R](https://en.wikipedia.org/wiki/Learning_to_rank) focuses in create ranking models for [Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval) applications. To know more about this field check presentation of [Tie-Yan Liu](http://www2009.org/pdf/T7A-LEARNING%20TO%20RANK%20TUTORIAL.pdf) made at WWW'09.
