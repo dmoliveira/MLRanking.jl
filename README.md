@@ -29,7 +29,7 @@ Pkg.clone("http://www.github.com/dmoliveira/MLRanking.jl")
 ## Troubleshooting
 In construction.
 
-Package made  by ([dmoliveira](http://github.com/dmoliveira)). Please, give your suggestion on Gitter or open a issue in GitHub!
+Package made  by ([dmoliveira](http://github.com/dmoliveira)). Please, give your suggestion on Gitter or open an issue in GitHub!
 
 
 ## TODOs
