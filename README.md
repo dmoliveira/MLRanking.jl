@@ -21,7 +21,7 @@ Its a hub of many packages and condense the algorithms here. For now it contains
 This package is in initial contruction and will be updated regularly until I can put all documentation, troubleshooting, examples of usage and benchmarks. Please, stay tuned for new updates. For now I had put an [initial documentation](docs/build/index.md) using [Documenter.jl](https://github.com/MichaelHatherly/Documenter.jl).
 
 ## Installation
-In construction. For now, open julia:
+In construction. For now, in Julia REPL:
 ```
 Pkg.clone("http://www.github.com/dmoliveira/MLRanking.jl")
 ```
