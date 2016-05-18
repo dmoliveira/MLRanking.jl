@@ -1,7 +1,9 @@
 # MLRanking.jl Documentation
 
-    {meta} 
-    CurrentModule = Documenter
+```@meta
+CurrentModule = Documenter
+```
 
-    {docs}
-    train_mart()
+```@docs
+train_mart()
+```
